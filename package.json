@@ -1,0 +1,23 @@
+{
+  "name": "opdracht_calculator",
+  "version": "1.0.0",
+  "description": "\"# opdracht_calculator\"",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christianpeeters19/opdracht_calculator.git"
+  },
+  "author": "Christian Peeters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christianpeeters19/opdracht_calculator/issues"
+  },
+  "homepage": "https://github.com/Christianpeeters19/opdracht_calculator#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
