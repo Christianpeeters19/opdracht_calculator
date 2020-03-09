@@ -1,4 +1,9 @@
 /* Delen van twee waarden*/
+import {add} from "./add";
+import {divide} from "./divide";
+import {multiply} from "./multiply";
+import {substract} from "./substract";
+
 function calculate(a, b, operator) {
     "use strict";
 	var c = 0;
@@ -20,3 +25,4 @@ function calculate(a, b, operator) {
 	}
 	return c;
 }
+export {calculate}
